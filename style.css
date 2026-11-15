@@ -49,8 +49,9 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: rgba(0, 0, 0, 0.35);
-    backdrop-filter: blur(10px);
+    background: transparent;
+    border-radius: 20px;
+    backdrop-filter: blur(20px)
 }
 
 /* LOGO */
